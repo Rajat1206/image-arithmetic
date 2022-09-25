@@ -1,2 +1,2 @@
 # image-arithmetic
-Code to perform arithmetic on images
+Code to perform arithmetic operation on images
